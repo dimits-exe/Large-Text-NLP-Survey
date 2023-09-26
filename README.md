@@ -1,0 +1,9 @@
+# [Neural Natural Language Processing for Long Texts: A Survey of the State-of-the-Art](https://arxiv.org/abs/2305.16259)
+by Dimitrios Tsirmpas, Ioannis Gkionis, Ioannis Mademlis, Georgios Papadopoulos
+
+This paper has been submitted in Engineering Applications of Artificial Intelligence.
+
+
+## Abstract
+
+The adoption of Deep Neural Networks (DNNs) has greatly benefited Natural Language Processing (NLP) during the past decade. However, the demands of long document analysis are quite different from those of shorter texts, while the ever increasing size of documents uploaded on-line renders automated understanding of lengthy texts a critical issue. Relevant applications include automated Web mining, legal document review, medical records analysis, financial reports analysis, contract management, environmental impact assessment, news aggregation, etc. Despite the relatively recent development of efficient algorithms for analyzing long documents, practical tools in this field are currently flourishing. This article serves as an entry point into this dynamic domain and aims to achieve two objectives. Firstly, it provides an overview of the relevant neural building blocks, serving as a concise tutorial for the field. Secondly, it offers a brief examination of the current state-of-the-art in long document NLP, with a primary focus on two key tasks: document classification and document summarization. Sentiment analysis for long texts is also covered, since it is typically treated as a particular case of document classification. Consequently, this article presents an introductory exploration of document-level analysis, addressing the primary challenges, concerns, and existing solutions. Finally, the article presents publicly available annotated datasets that can facilitate further research in this area. 
